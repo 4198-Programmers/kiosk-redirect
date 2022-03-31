@@ -1,2 +1,2 @@
-# 4198-website-redirect
-haha funny redirect
+# kiosk-redirect
+ayup
